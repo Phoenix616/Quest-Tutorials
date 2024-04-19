@@ -1,0 +1,2 @@
+events:
+  sendMSG: "chat Hello World!"
